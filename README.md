@@ -4,6 +4,8 @@
 
 This project is a comprehensive data-driven analysis of the sales department’s performance within a retail setting. The primary objective is to uncover critical insights that can drive strategic decisions to optimize sales and enhance overall business performance. The analysis employs a rich dataset that includes daily sales figures, customer counts, promotional activities, and competitive landscape details.
 
+![Project Mindmap](https://github.com/Ankit-KK/Retail-Sales-Performance-Optimization/blob/main/mindmap.png)
+
 ## Key Components
 
 1. **Data Cleaning and Preprocessing**
